@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "257696081381",
+    "firebase_url": "https://app-management-d048c.firebaseio.com",
+    "project_id": "app-management-d048c",
+    "storage_bucket": "app-management-d048c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257696081381:android:cbec9db12b3b994f",
+        "android_client_info": {
+          "package_name": "com.partners.evolute.detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257696081381-vuav9ku0sclovadgrfhec3scike9bmvi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257696081381-5nbnfhoukbat4e9q554sgc48je4vml41.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257696081381-5nbnfhoukbat4e9q554sgc48je4vml41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOYMlCSfO7PyZIsNhPatwLMomjAzH0oo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
